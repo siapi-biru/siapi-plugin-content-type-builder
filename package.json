@@ -1,0 +1,47 @@
+{
+  "name": "siapi-plugin-content-type-builder",
+  "version": "3.6.5",
+  "description": "Siapi plugin to create content type (API).",
+  "siapi": {
+    "name": "Content Type Builder",
+    "icon": "paint-brush",
+    "description": "content-type-builder.plugin.description"
+  },
+  "dependencies": {
+    "@buffetjs/core": "3.3.8",
+    "@buffetjs/custom": "3.3.8",
+    "@buffetjs/hooks": "3.3.8",
+    "@buffetjs/icons": "3.3.8",
+    "@buffetjs/styles": "3.3.8",
+    "@buffetjs/utils": "3.3.8",
+    "@sindresorhus/slugify": "1.1.0",
+    "fs-extra": "^9.1.0",
+    "immutable": "^3.8.2",
+    "lodash": "4.17.21",
+    "pluralize": "^8.0.0",
+    "react": "^16.14.0",
+    "react-dom": "^16.9.0",
+    "react-intl": "4.5.0",
+    "react-redux": "7.2.3",
+    "react-router": "^5.2.0",
+    "react-router-dom": "^5.0.0",
+    "reactstrap": "8.4.1",
+    "redux": "^4.0.1",
+    "redux-immutable": "^4.0.0",
+    "reselect": "^4.0.0",
+    "siapi-generate": "github:siapi-biru/siapi-generate#v3.6.5",
+    "siapi-generate-api": "github:siapi-biru/siapi-generate-api#v3.6.5",
+    "siapi-helper-plugin": "github:siapi-biru/siapi-helper-plugin#v3.6.5",
+    "siapi-utils": "github:siapi-biru/siapi-utils#v3.6.5",
+    "yup": "^0.32.9"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/siapi-biru/siapi.git"
+  },
+  "engines": {
+    "node": ">=10.16.0 <=14.x.x",
+    "npm": ">=6.0.0"
+  },
+  "gitHead": "231263a3535658bab1e9492c6aaaed8692d62a53"
+}
