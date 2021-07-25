@@ -29,10 +29,10 @@
     "redux": "^4.0.1",
     "redux-immutable": "^4.0.0",
     "reselect": "^4.0.0",
-    "siapi-generate": "github:siapi-biru/siapi-generate#v3.6.5",
-    "siapi-generate-api": "github:siapi-biru/siapi-generate-api#v3.6.5",
-    "siapi-helper-plugin": "github:siapi-biru/siapi-helper-plugin#v3.6.5",
-    "siapi-utils": "github:siapi-biru/siapi-utils#v3.6.5",
+    "siapi-generate": "github:siapi-biru/siapi-generate",
+    "siapi-generate-api": "github:siapi-biru/siapi-generate-api",
+    "siapi-helper-plugin": "github:siapi-biru/siapi-helper-plugin",
+    "siapi-utils": "github:siapi-biru/siapi-utils",
     "yup": "^0.32.9"
   },
   "repository": {
